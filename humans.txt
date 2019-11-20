@@ -17,5 +17,9 @@
 	
 	
 	
+<<<<<<< HEAD
 	
 Raj Kumar Added
+=======
+	Richa added sometings
+>>>>>>> ng
